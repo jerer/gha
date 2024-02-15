@@ -36,6 +36,6 @@ jobs:
         with:
           action: deploy
           strategy: basic
-          amespace: 'zvyagin'
+          namespace: 'zvyagin'
           manifests: |
             deploy.yaml
